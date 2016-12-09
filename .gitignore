@@ -1,0 +1,7 @@
+# Except vundle.vim
+!vim/
+vim/*
+!vim/bundle/
+vim/bundle/*
+!vim/bundle/Vundle.vim/
+# Ignore everything in vim/bundle directory
