@@ -36,6 +36,8 @@ Plugin 'vim-syntastic/syntastic'
 Plugin 'pangloss/vim-javascript'
 Plugin 'mxw/vim-jsx'
 Plugin 'jelera/vim-javascript-syntax'
+Plugin 'jiangmiao/auto-pairs'
+Bundle 'geoffharcourt/vim-matchit'
 call vundle#end()            " required
 syntax on
 filetype plugin indent on
